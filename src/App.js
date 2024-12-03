@@ -1,14 +1,14 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import Navbar from './components/Navbar';
-import Home from './components/Home';
+import Navbar from './Components/Navbar';
+import Footer from './Components/Footer';
 
-import Footer from './components/Footer';
-
-import AboutMe from './components/AboutMe';
-import Projects from './components/Projects';
-import Resume from './components/Resume';
-import Awards from './components/Awards';
+import Home from './Pages/Home';
+import AboutMe from './Pages/AboutMe';
+import Projects from './Pages/Projects';
+import Resume from './Pages/Resume';
+import Awards from './Pages/Awards';
+import Certifications from './Pages/Certifications';
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/awards" element={<Awards />} />
+          <Route path="/certifications" element={<Certifications />} />
         </Routes>
       </div>
       <Footer />

@@ -1,0 +1,121 @@
+[
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "issueDate": "July 2024",
+      "expirationDate": "July 2027",
+      "credentialURL": "https://www.credly.com/badges/63b8cc27-b4ba-4494-bf92-696866bf860f"
+    },
+    {
+      "name": "Bloomberg Finance Fundamentals",
+      "issuer": "Bloomberg",
+      "issueDate": "July 2024",
+      "credentialID": "XCE5HPURbPNGQjXL5ShUMwxe",
+      "credentialURL": "https://portal.bloombergforeducation.com/certificates/XCE5HPURbPNGQjXL5ShUMwxe"
+    },
+    {
+      "name": "Prompt Design in Vertex AI Skill Badge",
+      "issuer": "Google",
+      "issueDate": "June 2024",
+      "credentialURL": "https://www.example.com/certification/prompt-design-vertex-ai"
+    },
+    {
+        "name": "Intro to Deep Learning",
+        "issuer": "Kaggle",
+        "issueDate": "January 2024",
+        "credentialURL": "https://www.kaggle.com/learn/certification/akksharvan/intro-to-deep-learning"
+    },
+    {
+        "name": "GIAC Foundational Cybersecurity Technologies (GFACT)",
+        "issuer": "GIAC Certifications",
+        "issueDate": "October 2023",
+        "expirationDate": "October 2027",
+        "credentialURL": "https://www.credly.com/badges/857438e6-207c-439d-b639-552e3177fc7b"
+    },
+    {
+        "name": "Ratatype Typing Certificate",
+        "issuer": "Ratatype",
+        "issueDate": "August 2023",
+        "credentialID": "6355591",
+        "credentialURL": "https://www.ratatype.com/u6355591/certificate/en_new/"
+    },
+    {
+        "name": "PCAP – Certified Associate in Python Programming",
+        "issuer": "Python Institute",
+        "issueDate": "May 2023",
+        "credentialURL": "https://www.credly.com/badges/44692a22-87d6-4cd2-8edb-e1c49c137558"
+    },
+    {
+        "name": "CS50x",
+        "issuer": "Harvard University",
+        "issueDate": "March 2023",
+        "credentialURL": "https://cs50.harvard.edu/certificates/456dc92c-2488-4787-bc3d-ea4195b91bd2"
+    },
+    {
+        "name": "Intermediate Machine Learning",
+        "issuer": "Kaggle",
+        "issueDate": "March 2023",
+        "credentialURL": "https://www.kaggle.com/learn/certification/akksharvan/intermediate-machine-learning"
+    },
+    {
+        "name": "Intro to Machine Learning",
+        "issuer": "Kaggle",
+        "issueDate": "March 2023",
+        "credentialURL": "https://www.kaggle.com/learn/certification/akksharvan/intro-to-machine-learning"
+    },
+    {
+        "name": "Hour of Code",
+        "issuer": "Code.org",
+        "issueDate": "January 2023",
+        "credentialURL": "https://sites.google.com/students.wcpss.net/hour-of-code-certification/home"
+    },
+    {
+        "name": "ACT WorkKeys National Career Readiness Certificate - Platinum",
+        "issuer": "ACT",
+        "issueDate": "December 2022",
+        "credentialID": "1BYC7MB6TZGC",
+        "credentialURL": "https://myworkkeys.act.org/mwk/emCertDetails.do?event=go&realm=17740116&certId=1BYC7MB6TZGC"
+    },
+    {
+        "name": "Fundamentals of Agile Project Management",
+        "issuer": "Project Management Institute",
+        "issueDate": "December 2022",
+        "credentialURL": "https://www.credly.com/badges/210db83d-7e96-401f-8b33-58fa18ed7de2"
+    },
+    {
+        "name": "Fundamentals of Waterfall Project Management",
+        "issuer": "Project Management Institute",
+        "issueDate": "December 2022",
+        "credentialURL": "https://www.credly.com/badges/9078f7d3-ba74-4a66-8d8f-0b9060f8007d"
+    },
+    {
+        "name": "Everfi Venture Program",
+        "issuer": "Everfi",
+        "issueDate": "November 2022",
+        "credentialURL": "https://sites.google.com/students.wcpss.net/akksharvan-everfi-venture/home"
+    },
+    {
+        "name": "C++ Certification",
+        "issuer": "SoloLearn",
+        "issueDate": "August 2022",
+        "credentialURL": "https://www.sololearn.com/certificates/course/en/26567088/1051/landscape/png"
+    },
+    {
+        "name": "BWSI Python Core 2022",
+        "issuer": "Massachusetts Institute of Technology",
+        "issueDate": "July 2022",
+        "credentialURL": "https://courses.bwsix.edly.io/certificates/7080b1c2eaa64d0ea3d68c6d4ba338a0"
+    },
+    {
+        "name": "Version Control: Git & Github 2022",
+        "issuer": "Massachusetts Institute of Technology",
+        "issueDate": "July 2022",
+        "credentialURL": "https://courses.bwsix.edly.io/certificates/e3cf5e64333445168b3b6112a3bd0fae"
+    },
+    {
+        "name": "MTA: Introduction to Programming Using Python",
+        "issuer": "Microsoft",
+        "issueDate": "May 2022",
+        "credentialURL": "https://credly.com/badges/ec71397e-ec61-4b53-a263-a3c1e7510af0"
+    }
+]

@@ -19,6 +19,9 @@ function Navbar() {
         <li>
           <Link to="/awards" className="hover:text-secondary">Awards</Link>
         </li>
+        <li>
+          <Link to="/certifications" className="hover:text-secondary">Certifications</Link>
+        </li>
       </ul>
     </nav>
   );
