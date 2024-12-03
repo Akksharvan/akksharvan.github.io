@@ -1,7 +1,11 @@
 import Award from '../Components/Award';
 import unsortedAwards from '../Data/awards.json';
 
-const awards = unsortedAwards.sort((a, b) => new Date(b.issueDate) - new Date(a.issueDate));
+const awards = unsortedAwards.sort((a, b) => {
+  const dateA = new Date(a.issueDate);
+  const dateB = new Date(b.issueDate);
+  return dateB - dateA;
+});
 
 function Awards() {
   return (

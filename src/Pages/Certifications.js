@@ -1,7 +1,12 @@
 import Certification from '../Components/Certification';
 import unsortedCertifications from '../Data/certifications.json';
 
-const certifications = unsortedCertifications.sort((a, b) => new Date(b.issueDate) - new Date(a.issueDate));
+const certifications = unsortedCertifications.sort((a, b) => {
+  const dateA = new Date(a.issueDate);
+  const dateB = new Date(b.issueDate);
+
+  return dateB - dateA;
+});
 
 function Certifications() {
   return (
